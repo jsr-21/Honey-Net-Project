@@ -50,7 +50,7 @@ Stop Time 2023-12-05 22:28:17
 | SecurityIncident         | 120
 | NSG Inbound Malicious Flows Allowed | 2115
 
-## Attack Maps Before Hardening / Security Controls
+## Attack Maps After Hardening / Security Controls
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
@@ -66,7 +66,7 @@ Stop Time	2023-12-10 14:17:06
 | Syslog                   | 5
 | SecurityAlert            | 0
 | SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+|  NSG Inbound Malicious Flows Allowed | 0
 
 ## Conclusion
 
